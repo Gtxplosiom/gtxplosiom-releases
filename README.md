@@ -1,2 +1,2 @@
 ## Gtxplosiom's Releases
-### [Domain](https://gtxplosiom.github.io/gtxplosiom-releases)
+### [TBVGPE](https://github.com/Gtxplosiom/TBVGPE/releases)
